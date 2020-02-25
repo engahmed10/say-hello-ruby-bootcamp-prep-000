@@ -4,5 +4,3 @@ def say_hello(name= " Kent Beck!")
 end
 
 
-say_hello("Gabriela")
-say_hello
